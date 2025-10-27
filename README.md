@@ -1,0 +1,1 @@
+This is my attempt at learning how to use numpy, so I can use it with tcod to make a roguelike. Also I wanted to try making a jupyter notebook to see if it's useful in note taking and see how well it integrated into pycharm
